@@ -70,7 +70,6 @@
 			<version>0.28</version>
 		</dependency>
 
-<!-- https://mvnrepository.com/artifact/com.edwardraff/JSAT -->
 <dependency>
     <groupId>com.edwardraff</groupId>
     <artifactId>JSAT</artifactId>
@@ -94,25 +93,12 @@
        <version>1.7.5</version>
    </dependency>
    
-   <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-math3 -->
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-math3</artifactId>
     <version>3.6.1</version>
 </dependency>
    
-
-<!--		<dependency>
-			<groupId>org.ejml</groupId>
-			<artifactId>all</artifactId>
-			<version>0.28</version>
-		</dependency>
-
- 		<dependency>
-			<groupId>tw.edu.ntu.csie</groupId>
-			<artifactId>libsvm</artifactId>
-			<version>3.17</version>
-		</dependency> -->
 		<dependency>
     <groupId>org.jblas</groupId>
     <artifactId>jblas</artifactId>
